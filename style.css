@@ -43,7 +43,7 @@ h1 {
   /* A linha que simula o cursor */
   white-space: nowrap;
   /* Impede quebra de linha */
-  animation: typing 3s steps(30, end) infinite;
+  animation: typing 3s steps(30, end);
   background: #0000008a;
   padding: 15px;
 }
@@ -175,6 +175,12 @@ section button:hover {
   /* Cor do texto */
   margin: 0.5rem 0;
   /* Margem acima e abaixo */
+}
+
+.nenhum-resultado {
+  background-color: antiquewhite;
+  padding: 10px;
+  border-radius: 3px;
 }
 
 /* Estiliza o rodapé da página */
