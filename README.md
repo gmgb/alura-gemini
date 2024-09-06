@@ -7,7 +7,12 @@ Que tal mergulhar em um mundo de histórias sem sair do conforto do seu sofá? O
 ### ** Como Funciona**
 
 1. **Digite sua busca:** Na barra de pesquisa, digite qualquer palavra-chave relacionada ao livro que você procura.
-2. **Descubra seus próximos favoritos:** A aplicação irá vasculhar nossa extensa biblioteca e te apresentar os resultados mais relevantes.
+2. **Descubra seus próximos favoritos:** A aplicação irá vasculhar nossa extensa biblioteca e te apresentar os resultados mais relevantes. 
+**Inicialmente temos 4 livos na base então a busca funciona melhor com palavras e tags relacionadas a esses itens.
+ "Biblioteca da Meia Noite",
+  "O Sol é Para Todos",
+  "Princess Mononoke: The First Story",
+  "O Pequeno Príncipe (Le Petit Prince)",
 3. **Explore os detalhes:** Cada resultado te levará a uma breve descrição do livro, com informações como autor, ano de publicação e um link para mais detalhes.
 
 ### **️ Tecnologias Utilizadas**
