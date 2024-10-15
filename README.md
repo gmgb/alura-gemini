@@ -11,7 +11,6 @@ Que tal mergulhar em um mundo de histórias sem sair do conforto do seu sofá? O
 **Inicialmente temos 4 livos na base então a busca funciona melhor com palavras e tags relacionadas a esses itens.
  "Biblioteca da Meia Noite",
   "O Sol é Para Todos",
-  "Princess Mononoke: The First Story",
   "O Pequeno Príncipe (Le Petit Prince)",
 3. **Explore os detalhes:** Cada resultado te levará a uma breve descrição do livro, com informações como autor, ano de publicação e um link para mais detalhes.
 
@@ -27,11 +26,6 @@ Que tal mergulhar em um mundo de histórias sem sair do conforto do seu sofá? O
 2. **Abra o index.html:** Utilize seu navegador preferido para abrir o arquivo `index.html` localizado na raiz do projeto.
 3. **Comece a pesquisar:** Divirta-se explorando nossa biblioteca!
 
-### ** Dicas Extras**
-
-* **Personalize:** Sinta-se à vontade para personalizar o CSS e adicionar mais funcionalidades à aplicação.
-* **Expanda a biblioteca:** Adicione mais livros ao arquivo `dados.js` para criar uma biblioteca ainda mais completa.
-* **Melhore a pesquisa:** Explore algoritmos de busca mais sofisticados para otimizar os resultados.
 
 ### ** Contribuições**
 
