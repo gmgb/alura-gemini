@@ -1,3 +1,12 @@
+let campoPesquisa = document.getElementById("campo-pesquisa");
+
+// Adiciona o evento de escuta para a tecla Enter
+campoPesquisa.addEventListener('keypress', (event) => {
+  if (event.key === 'Enter') {
+    pesquisar();
+  }
+});
+
 function pesquisar() {
   // Obtém a seção onde os resultados serão exibidos
   let section = document.getElementById("resultados-pesquisa");
@@ -23,11 +32,13 @@ function pesquisar() {
     titulo = dado.titulo.toLowerCase()
     sinopse = dado.sinopse.toLowerCase()
     tags = dado.tags.toLowerCase()
+
     // se titulo includes campoPesquisa
     if (titulo.includes(campoPesquisa) || sinopse.includes(campoPesquisa) || tags.includes(campoPesquisa)) {
       // Cria um novo elemento div para cada livro, formatando os dados
       resultado += `
       <div class="item-resultado">
+        <img data-src="${dado.capa} alt="Capa de ${dado.titulo} class="lazyload">
         <h2>
          <a href="#" target="_blank">${dado.titulo}</a>
         </h2>
